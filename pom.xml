@@ -16,7 +16,7 @@
         <pitest.version>1.5.0</pitest.version>
         <pitest-junit4-plugin.version>0.12</pitest-junit4-plugin.version>
         <commons-lang3.version>3.9</commons-lang3.version>
-        <junit-4.version>4.6</junit-4.version>
+        <junit-4.version>4.13.1</junit-4.version>
     </properties>
 
     <dependencies>
